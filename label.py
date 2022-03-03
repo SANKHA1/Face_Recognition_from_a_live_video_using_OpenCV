@@ -5,7 +5,7 @@ size = 4
 
 img_array = []
 # We load the xml file
-classifier = cv2.CascadeClassifier('haarcascade_frontalface_alt.xml')
+classifier = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 webcam = cv2.VideoCapture(0) #Using default WebCam connected to the PC.
 
