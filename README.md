@@ -24,5 +24,5 @@ I am runing the following command in terminal:
       
      python label.py
      
-It wll open a new window of OpenCV and then identifies my face. The video is saved with the name 'output_face_recognition'.avi'.
+It wll open a new window of OpenCV and then identifies my face. The video is saved with the name 'output_face_recognition'.avi'. The names of the persons present in the video are saved in 'attendance.csv' file.
 
